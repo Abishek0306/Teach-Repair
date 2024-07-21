@@ -1,2 +1,2 @@
-# Teach-Repair
+# Tech-Repair
 Java UI
